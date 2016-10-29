@@ -4,7 +4,9 @@ Kickass torrents makes public data available in their api.  They allow a 24 hour
 
 You can find the Kickass data export [here](https://https://kickass.to/api/).
 
-[https://www.shinyapps.io/](https://www.shinyapps.io/) is a statistical plotting service run by RStudio.  
+## This project is retired ... cuz ... kickass is no longer operational
+
+[https://www.shinyapps.io/](https://www.shinyapps.io/) is a statistical plotting service run by RStudio.
 
 We can plot the histogram of all torrents uploaded on Kickass for the past 24 hours.
 
